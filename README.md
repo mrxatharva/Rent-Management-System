@@ -147,3 +147,19 @@ Rent-Management-System/
 ## License
 
 This project is open-source and available under the MIT License.
+
+# Rent Management System
+
+## Screenshots
+
+### Main Dashboard
+![Dashboard](ss1.png)
+
+### Tenant Management
+![Tenant Management](ss2.png)
+
+### Rent Records
+![Rent Records](SS3.png)
+
+### Other
+![other](SS4.png)
