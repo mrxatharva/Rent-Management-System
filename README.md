@@ -153,13 +153,10 @@ This project is open-source and available under the MIT License.
 ## Screenshots
 
 ### Main Dashboard
-![Dashboard](ss1.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Tenant Management
-![Tenant Management](ss2.png)
+![Tenant Management](screenshots/tenants.png)
 
 ### Rent Records
-![Rent Records](SS3.png)
-
-### Other
-![other](SS4.png)
+![Rent Records](screenshots/rent.png)
