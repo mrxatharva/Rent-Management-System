@@ -150,13 +150,13 @@ This project is open-source and available under the MIT License.
 ## Screenshots
 
 ### Screenshot 1
-![screenshot 1](ss1.png)
+![Screenshot 1](screenshots/ss1.png)
 
 ### Screenshot 2
-![screenshot 2](ss2.png)
+![Screenshot 2](screenshots/ss2.png)
 
 ### Screenshot 3
-![screenshot 3](SS3.png)
+![Screenshot 3](screenshots/SS3.png)
 
 ### Screenshot 4
-![screenshot 4](SS4.png)
+![Screenshot 4](screenshots/SS4.png)
